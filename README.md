@@ -261,4 +261,4 @@ mybatis-generator-tools\src\main\resources\generator\创建mybatis-generator.xml
 
 IDEA右侧菜单栏Maven | Plugins | mybatis-generator | mybatis-generator:generate | Run Maven Build
 
-![](D:\Program Files (x86)\Java\IdeaProjects\mybatis-generator-tools\image\1.png)
+![](https://github.com/MinGAndCode/mybatis-generator-tools/blob/master/image/1.png)
